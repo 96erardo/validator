@@ -1,0 +1,21 @@
+{
+    "name": "gagl/validator",
+    "description": "Validates user input",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gerardo García L",
+            "email": "gerardoagl96@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gelp\\": "src/"
+        }
+    }
+}
