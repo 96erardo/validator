@@ -1,8 +1,8 @@
 <?php 
 
-namespace Gelp;
+namespace Gagl;
 
-use Gelp\Message;
+use Gagl\Message;
 
 class Veredict {
 

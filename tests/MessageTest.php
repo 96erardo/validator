@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Gelp\Message;
+use Gagl\Message;
 
 class MessageTest extends TestCase {
     

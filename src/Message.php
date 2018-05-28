@@ -1,6 +1,6 @@
 <?php
 
-namespace Gelp;
+namespace Gagl;
 
 class Message {
 

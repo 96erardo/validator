@@ -1,8 +1,8 @@
 <?php
 
-namespace Gelp;
+namespace Gagl;
 
-use Gelp\Veredict;
+use Gagl\Veredict;
 
 class Validator {
     
@@ -23,7 +23,7 @@ class Validator {
     /**
      * The response that goes back when everything is validated
      *
-     * @var \Gelp\Veredict
+     * @var \Gagl\Veredict
      */
     private $veredict;
 

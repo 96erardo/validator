@@ -1,7 +1,7 @@
 <?php 
 
 use PHPUnit\Framework\TestCase;
-use Gelp\Validator;
+use Gagl\Validator;
 
 class ValidatorTest extends TestCase {
 

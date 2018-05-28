@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Gelp\Veredict;
+use Gagl\Veredict;
 
 class VeredictTest extends TestCase {
     
